@@ -13,7 +13,7 @@ def extract_press_release(url,Question_Number, Number_of_Press_Release):
 
 Question_Number = "a"
 
-print("Hello")
+print("Hello， this is Nelson's HW2, Question 1, part a:)")
 
 seed_url = "https://press.un.org/en"
 
